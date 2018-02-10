@@ -1,14 +1,14 @@
 {
-  "name": "react-scripts-ts",
+  "name": "react-scripts-inno-ts",
   "version": "2.13.0",
-  "description": "Configuration and scripts for Create React App.",
-  "repository": "wmonk/create-react-app",
+  "description": "Inno apps configuration and scripts for Create React App.",
+  "repository": "uwinkler/create-react-app",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/wmonk/create-react-app/issues"
+    "url": "https://github.com/uwinkler/create-react-app/issues"
   },
   "files": [
     "bin",

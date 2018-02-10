@@ -207,7 +207,7 @@ module.exports = function(
     );
   }
   console.log();
-  console.log('Happy hacking!');
+  console.log('Happy hacking with inno apps!');
 };
 
 function isReactInstalled(appPackage) {
